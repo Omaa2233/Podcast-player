@@ -1,4 +1,4 @@
-# Podcast Player App
+# Pod-Sphere: Podcast Player App
 
 This is a podcast player app built with the MERN (MongoDB, Express.js, React.js, Node.js) stack.
 
